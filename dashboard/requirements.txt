@@ -1,6 +1,11 @@
-qiskit
-qiskit-nature
-pyscf
-numpy
-matplotlib
-streamlit
+streamlit>=1.28.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+pillow>=10.0.0
+pandas>=2.0.0
+scipy>=1.11.0
+pyscf>=2.2.0
+qiskit>=0.45.0
+qiskit-nature>=0.7.0
+qiskit-algorithms>=0.2.0
+qiskit-aer>=0.13.0
