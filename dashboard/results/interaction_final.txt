@@ -1,0 +1,25 @@
+
+CALCULATING SINGLE Pt ATOM ENERGY
+----------------------------------------------------------------------
+Pt atom configuration: [Xe] 4f¹⁴ 5d⁹ 6s¹
+Spin multiplicity: 3 (triplet)
+Number of electrons: 18
+
+Pt₂ dimer at 2.33 Å
+Number of electrons: 36
+
+Dimer energy: -236.66692290 Hartree
+
+======================================================================
+INTERACTION ENERGY RESULTS
+======================================================================
+
+E(Pt₂) = -236.666923 Hartree
+2 × E(Pt) = -236.787041 Hartree
+
+Interaction energy ΔE = E(Pt₂) - 2E(Pt)
+                     = 0.120118 Hartree
+                     = 3.269 eV
+                     = 75.37 kcal/mol
+
+Bond dissociation energy Dₑ = -75.37 kcal/mol

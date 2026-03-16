@@ -1,0 +1,19 @@
+
+converged SCF energy = -477.2718427071506
+
+Results:
+Total energy: -477.271843 Hartree
+Energy per atom: -119.317961 Hartree
+
+converged SCF energy = -477.2718427071506   <S^2> = 0.000000  2S+1 = 1.000000
+
+Cohesive energy per atom: -0.924440 Hartree
+                         = -580.09 kcal/mol
+
+HOMO-LUMO gap: 1.307 eV
+
+Mulliken charges per atom:
+Pt1: 77.9511
+Pt2: 78.4386
+Pt3: 76.1826
+Pt4: 77.4263

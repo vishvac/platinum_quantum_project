@@ -1,0 +1,15 @@
+
+converged SCF energy = -236.6669229005892
+
+Total energy: -236.666923 Hartree
+             = -148508.49 kcal/mol
+
+Frontier orbitals:
+HOMO (orbital 18): -0.251142 Hartree
+                   -6.834 eV
+LUMO (orbital 19): -0.037067 Hartree
+                   -1.009 eV
+
+HOMO-LUMO gap: 5.825 eV
+
+Mulliken bond population: -0.1129

@@ -1,0 +1,11 @@
+
+=== VQE RESULTS ===
+Optimal parameter θ: 2.060800
+
+VQE energy: -1.490000
+Exact energy: -1.490000
+
+Error: 0.000000
+
+Optimization success: True
+Number of iterations: 26

@@ -1,0 +1,27 @@
+
+=== VQE RESULTS ===
+Optimal parameter θ: 2.060800
+
+VQE energy: -1.490000
+Exact energy: -1.490000
+Error: 0.000000
+
+=== EIGENVALUE SPECTRUM ===
+Ground state (E0): -1.490000
+1st Excited (E1):  -0.850000
+2nd Excited (E2):  -0.850000
+3rd Excited (E3):  -0.810000
+
+Energy gaps:
+E1 - E0 = 0.640000
+E2 - E1 = 0.000000
+E3 - E2 = 0.040000
+
+Optimization success: True
+Number of iterations: 26
+
+
+=== BONDING ANALYSIS ===
+Covalent character: 0.7353
+Ionic character: 0.0000
+No bond: 0.2647

@@ -1,0 +1,14 @@
+Pt-Pt INTERACTION ENERGY RESULTS
+==================================================
+
+Optimal bond length: 3.000 Å
+Binding energy: -43.85 kcal/mol
+                 -1.902 eV
+
+Bond dissociation energy Dₑ: -43.85 kcal/mol
+
+Bond character: Weak (van der Waals/Hydrogen bond like)
+
+Comparison with literature:
+  - Experimental Pt₂: ~2.33 Å, ~50 kcal/mol
+  - Our calculation: {optimal_r:.3f} Å, {binding_energy:.1f} kcal/mol
